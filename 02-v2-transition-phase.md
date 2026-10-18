@@ -10,9 +10,9 @@
 - **Первые шаги в Git:** Именно на V2 началось базовое знакомство с контролем версий и первыми коммитами.
     
 ## UI
-![[Screenshot_19.png]]
+![Screenshot_19.png](assets/Screenshot_19.png)
 
-![[Screenshot_20.png]]
+![Screenshot_20](assets/Screenshot_20.png)
 
 
 ## 💡 Инженерная рефлексия
