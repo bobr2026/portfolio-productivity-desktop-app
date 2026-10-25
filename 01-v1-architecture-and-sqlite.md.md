@@ -127,7 +127,6 @@ CREATE TABLE IF NOT EXISTS categories (
 ![2026-10-16 21-40-38.gif](assets/2026-10-16%2021-40-38.gif)
 
 
-* 🔗 **[Посмотреть архивный код V0](https://github.com/bobr2026/productivity-desktop-app-v0)**
 
 рефакторинг  я вам уже показал выше но это не всё, да может разница в 300 строк покажется и небольшой но давайте не забывать про архитектуру 
 
@@ -135,3 +134,9 @@ CREATE TABLE IF NOT EXISTS categories (
 здесь я вынес hendler-ы в отдельный слой  
 
 ![Pasted image 20261017220321.png](assets/Pasted%20image%2020261017220321.png)
+
+
+
+
+
+* 🔗 **[Посмотреть архивный код V1](https://github.com/bobr2026/-productivity-desktop-app-v1)**
